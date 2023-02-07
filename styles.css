@@ -1,0 +1,58 @@
+/***************************TAG SELECTORS***************************/
+
+a {
+    color: rgb(240, 230, 212);
+}
+body {
+    background-color:#0A043C;
+}
+button:hover {
+    background-color: grey;
+    color: white;
+}
+form {
+    color: white;
+}
+h1 {
+    color: rgb(110, 238, 210);
+    font-size: 50px;
+}
+h2 {
+    color: blanchedalmond;
+}
+h3 {
+    color: rgb(247, 213, 162);
+    font-size: 30px;
+}
+hr {
+    color: gainsboro;
+    width: 20%;
+    border-style: dashed;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+
+}
+ol {
+    color: white;
+}
+thead {
+    color: rgb(180, 241, 208);
+    font-size: 25px;
+}
+p {
+    color: white;
+}
+tbody {
+    color: white;
+}
+ul {
+    color: white;
+}
+/***************************CLASS SELECTORS***************************/
+
+.Email :hover {
+    background-color: grey;
+    color: white;
+}
+
